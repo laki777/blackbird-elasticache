@@ -1,4 +1,5 @@
-blackbird-elasticache
+blackbird zabbix elasticache 
+
 =====================
 
-I'll write it at lator.
+redis and memcached AWS monitoring

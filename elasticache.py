@@ -248,7 +248,7 @@ class ConcreteJob(base.JobBase):
    key='elasticache.ping',
    value=1,
    host=self.options.get(
-    'hostname', 'zabbix.arbor.sc'
+    'hostname', 'zabbix_server_name'
    )
   )
 
